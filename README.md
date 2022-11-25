@@ -14,6 +14,9 @@ I've been Working on this assigments that has been given by our mentor [Hitesh C
   
 ## Estimated time I took to complete this
     - five and a half hour
+    
+## Live Link
+  https://planthomepagetest.netlify.app/
 
 
 ## Here Is What I'm Working On
